@@ -1,2 +1,4 @@
-# ola mundo
- ptimeiro repositorio versionado
+# Olá mundo
+ primeiro repositorio versionado
+
+ repositorio criado durante um curso do "curso em video"
